@@ -1,0 +1,5 @@
+Now the file has more content! 
+Title = 
+ Test 5 
+Text = 
+ commit after delete
