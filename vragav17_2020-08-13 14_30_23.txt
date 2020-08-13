@@ -1,5 +1,0 @@
-Now the file has more content! 
-Title = 
- Hi
-Text = 
- HI
