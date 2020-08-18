@@ -1,0 +1,5 @@
+Now the file has more content! 
+Title = 
+ aHR0cDovL3NlbWFudGljLmlpdG0uYWMuaW4vQWxsb3lPbnRvL0VsZW1lbnQjY2hyb21pdW0=
+Text = 
+ Cr has an exception in electronic configuration
